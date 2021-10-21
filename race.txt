@@ -1,0 +1,30 @@
+01 White
+02 Black
+03 American Indian, Aleutian, Alaskan Native or Eskimo
+04 Chinese
+05 Japanese
+06 Filipino
+07 Hawaiian
+08 Korean 
+10 Vietnamese
+11 Laotian
+12 Hmong
+13 Kampuchean
+14 Thai
+15 Asian Indian or Pakistani, NOS
+16 Asian Indian 
+17 Pakistani 
+20 Micronesian, NOS
+21 Chamorran 
+22 Guamanian, NOS 
+25 Polynesian, NOS
+26 Tahitian
+27 Samoan 
+28 Tongan 
+30 Melanesian, NOS
+31 Fiji Islander
+32 New Guinean 
+96 Other Asian, including Asian, NOS and Oriental, NOS
+97 Pacific Islander, NOS
+98 Other
+99 Unknown

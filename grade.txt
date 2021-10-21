@@ -1,0 +1,9 @@
+1 Grade I
+2 Grade II
+3 Grade III
+4 Grade IV
+5 T-cell
+6 B-cell
+7 Null cell
+8 N K cell 
+9 Not determined

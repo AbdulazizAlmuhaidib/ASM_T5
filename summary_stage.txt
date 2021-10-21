@@ -1,0 +1,8 @@
+0 In situ
+1 Localized only
+2 Regional by direct extension only
+3 Regional lymph nodes involved only
+4 Regional by both direct extension and lymph
+5 Regional, NOS
+7 Distant site(s)/node(s) involved
+9 Unknown/unstaged/unspecified/DCO
